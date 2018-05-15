@@ -23,21 +23,21 @@ https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
 
 ### tooling showcase
 
-https://github.com/ethereum/solidity
-dapp -
-gas -
-gasPrice-
-ganache -
-truffle -
-geth -
-web3 -
-solc -
-metamask -
-zeppelin -
-solium -
-/r/ethereum -
-etherscan -
-abi -
+* https://github.com/ethereum/solidity
+* dapp -
+* gas -
+* gasPrice-
+* ganache -
+* truffle -
+* geth -
+* web3 -
+* solc -
+* metamask -
+* zeppelin -
+* solium -
+* /r/ethereum -
+* etherscan -
+* abi -
 
 ### app
 
