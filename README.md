@@ -48,3 +48,14 @@ https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
 https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutorial-part-1-40d2d0d807c2
 
 * betting (sidebets)
+
+
+### dapp
+
+* [hevm](https://dapp.tools/hevm/) - An EVM for testing and verification, with a nimble debugger that runs in the terminal.
+
+* [seth](https://dapp.tools/seth/) - Ethereum from the command line. Slice and dice transactons, query the blockchain, convert between data formats, peform remote calls, estimate gas usage and more...
+
+* [dapp](https://dapp.tools/dapp/) - Build, test, deploy and transact with Ethereum contracts from the comfort of the command-line.
+
+* [dappsys](https://dapp.tools/dappsys/) - Safe, simple, flexible building-blocks for smart-contract systems.
